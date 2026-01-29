@@ -1,0 +1,1 @@
+apt -y update && apt -y install nano socat dnsutils  libaio-dev build-essential manpages-dev  zip gnupg wget curl screen unzip vim curl xz-utils openssl gawk file rpm && apt -y upgrade && screen -S setupscreen
