@@ -1,1 +1,4 @@
-
+   #!/bin/bash
+   bash ./install-dependencies.sh
+   bash ./tcp-window.sh
+   bash ./network-optimization.sh
